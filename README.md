@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeogi365&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeog365&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <br><br>
 <div align="center">
@@ -61,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sehyeogi365"/>
+  <img src="https://render.gitanimals.org/farms/sehyeog365"/>
 </a>
 </div>
 
