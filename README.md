@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<!-- <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/> -->
+<!--<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
-<!-- <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> -->
+<!--<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <!--<img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache Maven&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 <b>Interested in</b><br><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>-->
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 <br>
@@ -60,7 +61,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>-->
+<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/>
 <br>
 
