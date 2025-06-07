@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/C#-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%20#-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
 <br>
 
 <b>Tools</b><br><br>
